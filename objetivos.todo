@@ -1,0 +1,12 @@
+✔ Criar uma API para cadastro de usuários do Site Partiu Vender. @done(24-06-18 11:51)
+    ✔ criar tabela  pessoas: nome, telefone(whatsapp), email, ativo/inativo. @done(24-06-18 11:51)
+✔ @done(24-06-18 11:51)
+    ✔ criar tabela categorias de interesse. @done(24-06-18 11:51)
+✔ @done(24-06-18 11:51)
+    ✔ criar tabela pessoas categorias de interesse: idPessoas, idCategoriasInteresse @done(24-06-18 11:51)
+
+
+ Essa API também receberá um POST do joomla, com todas as atualizações que acontecerem.
+    Dados que vamos receber do joomla: title, category, tags, body
+
+
